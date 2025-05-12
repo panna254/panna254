@@ -1,10 +1,54 @@
-- 👋 Hi, I’m Moses Oketch
-- 👀 I’m interested in AL $ ML
-- 🌱 I’m currently learning Python Web Frameworks Django and Flask
-- 💞️ I’m looking to collaborate on progressive learning and projects
-- 📫 oketchonyango19@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Eating VM is an Extreme Sport.
+<h1 align="center">Hi there, I'm Musa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+learning+new+things."/>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 👨‍💻 I'm a passionate developer who loves building things with code.
+- 🌱 I'm currently learning and exploring new technologies related to Cybersecurity and AI.
+- 💬 Moving in Python, Web Development, C, Java
+- 📫 How to reach me: oketchonyango19@gmail.com
+- 🎮 I enjoy creating games like Snake and Number Guessing games in Python
+- 🔭 I'm currently working on expanding my portfolio with more interactive projects
+- 🤝 I'm open to collaborating on interesting projects
+- ⚡ Fun fact: Eating VM is an extreme sport
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" width="300"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="oketchonyango19.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p> 
 
 <!---
 panna254/panna254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
