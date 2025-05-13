@@ -9,7 +9,7 @@
 
 - 👨‍💻 I'm a passionate developer who loves building things with code.
 - 🌱 I'm currently learning and exploring new technologies related to Cybersecurity and AI.
-- 💬 Moving in Python, Web Development, C, Java
+- 💬 Moving in Python(Django), Web Development, C, Java
 - 📫 How to reach me: oketchonyango19@gmail.com
 - 🎮 I enjoy creating games like Snake and Number Guessing games in Python
 - 🔭 I'm currently working on expanding my portfolio with more interactive projects
