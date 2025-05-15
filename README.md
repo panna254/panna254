@@ -14,7 +14,7 @@
 - 🎮 I enjoy creating games like Snake and Number Guessing games in Python
 - 🔭 I'm currently working on expanding my portfolio with more interactive projects
 - 🤝 I'm open to collaborating on interesting projects
-- ⚡ Fun fact: Eating VM is an extreme sport
+- ⚡ Fun fact: Eating VM is an extreme sport!
 
 ---
 
