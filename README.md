@@ -18,7 +18,7 @@
 ---
 
 ## 🛠️ Languages & Tools
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
@@ -36,7 +36,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=panna254&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panna254&layout=compact&theme=radical" width="300"/>
   <br>
