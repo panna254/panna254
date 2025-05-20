@@ -9,7 +9,7 @@
 
 - 👨‍💻 I'm a passionate developer who loves building things with code.
 - 🌱 I'm currently learning and exploring new technologies related to Cybersecurity and AI.
-- 💬 Moving in Django, Flask, React 
+- 💬 Moving in Django, Flask, React, FastAPI, Next.js
 - 📫 How to reach me: oketchonyango19@gmail.com
 - 🔭 I'm currently working on expanding my portfolio with more interactive projects
 - 🤝 I'm open to collaborating on interesting projects
