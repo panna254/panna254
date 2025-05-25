@@ -12,7 +12,6 @@
 - 💬 Moving in Web Development and CyberSecurity
 - 📫 How to reach me: oketchonyango19@gmail.com
 - 🔭 I'm currently working on expanding my portfolio with more interactive projects
-- 🤝 I'm open to collaborating on interesting projects
 - ⚡ Fun fact: Eating VM is an extreme sport!
 
 ---
