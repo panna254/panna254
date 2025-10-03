@@ -12,7 +12,7 @@
 - 💬 Moving! Double XP Mode
 - 📫 How to reach me: oketchonyango19@gmail.com
 - 🔭 I'm currently working on expanding my portfolio with more interactive projects
-- ⚡ Fun fact: Eating VM is an extreme sport!
+- ⚡ Fun fact: Next Stop, The Top
 
 ---
 
