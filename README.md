@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning and exploring new technologies related to Cybersecurity and AI.
 - 💬 Moving! Double XP Mode
 - 📫 How to reach me: oketchonyango19@gmail.com
-- 🔭 I'm currently working on expanding my portfolio with more interactive projects
+- 🔭 Building with inclusion.
 - ⚡ Fun fact: Next Stop, The Top.
 
 ---
